@@ -1,6 +1,10 @@
 <script>
-    const video = document.querySelector('video');
-    video.playbackRate = 2;
+    import { onMount } from 'svelte';
+    onMount(() => {
+		const video = document.querySelector('video');
+        video.playbackRate = 2;
+	});
+    
 </script>
 
 <section>
