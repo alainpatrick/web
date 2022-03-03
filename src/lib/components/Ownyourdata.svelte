@@ -1,0 +1,20 @@
+<section>
+    <div class="bg-white">
+      <div class="container mx-auto flex flex-col items-center py-12 sm:py-24">
+        <div class="w-11/12 sm:w-2/3 flex justify-center items-center flex-col" style="line-height:1.3">
+          <h2 class="text-6xl text-center text-gray-800 font-black pb-12">
+            Own Your Data
+          </h2>
+          <p class="text-4xl text-center text-gray-800 " style="line-height:1.2">
+            Our proprietary AES-256 encryption software hacker-proofs your data. 
+            Even if the world’s most talented hacker were able to bring the power of all world’s computers to bear on your Box,  
+            it would still take (literally!) billions of years to break into your files. 
+            Only you can access your data. Only you can share it.
+          </p>
+        </div>
+        <div class="flex justify-center items-center py-8">
+            <img src="box-8.jpg" alt="Box is encrypted" class="rounded-lg" width="500" >
+        </div>
+      </div>
+    </div>
+</section>
