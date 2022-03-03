@@ -13,21 +13,24 @@
                 <!-- <li class="text-xl"><a href="https://fx.land/nft/">NFT</a></li> -->
             </ul>
             <nav class="md:ml-auto hidden lg:flex flex-wrap space-x-6 items-center text-base justify-center font-semibold">
-                <a href="#joinus" class="bg-aquadark text-white  p-2 rounded  hover:bg-aqua text-xl">Join The Waiting List</a>
+                <a href="#joinus" class="bg-aquadark text-white py-2 px-4 rounded  hover:bg-aqua text-xl">Join The Waiting List</a>
             </nav>
         </div>
     </div>
     
-    <div class="w-full h-screen relative">
-        <div class="absolute w-full h-full z-10 ">
-            <div class="px-16  h-full flex items-center justify-start">
-                <div class=" lg:flex flex-col w-2/6 space-y-4 py-12 ">
-                    <h1 class="text-7xl font-extrabold text-white ">Box <br/> The private, payless cloud storage alternative</h1>
-                </div>
+    <div class="w-full h-screen bg-center bg-no-repeat bg-cover" style="background-image: url('hero2.jpg');">
+        <div class="w-full h-screen bg-opacity-10 bg-black flex justify-center items-center">
+            <div class="text-center text-white bg-black bg-opacity-50 rounded-lg p-4 mx-4" style="margin-top:36rem;">
+                <h1 class="text-4xl font-extrabold text-white " style="line-height: 1.3;">
+                    <span class="text-aquadark">Box</span> <br/> 
+                    The private, payless <br/> 
+                    cloud storage alternative
+                </h1>
             </div>
         </div>
-        <div class="absolute w-full "/>
-        <img src="hero.jpg" alt="Box - by Functionland" width="100%" >
     </div>
+   
+
+
 </section>
 
