@@ -4,7 +4,7 @@
     let responseMessage = ''
   
     async function submitForm() {
-      const submit = await fetch('/email-subscribe.json', {
+      const submit = await fetch('/subscribe', {
         method: 'POST',
         body: JSON.stringify({ email }),
       })
@@ -23,6 +23,7 @@
       ) {
         showMessage = false
         // deal with failed response from server
+        console.error(error)
       }
     }
   </script>

@@ -1,5 +1,5 @@
 <script>
-  import Subscribe from "$lib/components/email/Subscribe.svelte";
+  import Subscriber from "$lib/components/email/Subscriber.svelte";
 </script>
 
 <section id="joinus" class="">
@@ -17,7 +17,7 @@
 
         <div class="flex justify-center flex-col items-center py-12">
           <img src="kickstarter.png" alt="Box by Functionland Launching soon on Kickstarter" class="ml-2" width="150">
-          <Subscribe />
+          <Subscriber />
         </div>
       </div>
     </div>
