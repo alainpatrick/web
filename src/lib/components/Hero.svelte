@@ -20,7 +20,7 @@
     
     <div class="w-full h-screen bg-center bg-no-repeat bg-cover" style="background-image: url('hero.jpg');">
         <div class="w-full h-screen bg-opacity-10 bg-black flex justify-center items-center">
-            <div class="text-center text-white bg-black bg-opacity-70 rounded-lg mx-4" style="margin-top:30rem;">
+            <div class="text-center text-white bg-black bg-opacity-80 rounded-lg mx-4" style="margin-top:30rem;">
                 <h1 class="text-3xl font-extrabold text-white p-2 " style="line-height: 1.3;">
                     <span class="text-aquadark">Box</span> <br/> 
                     The private, payless <br/> 
