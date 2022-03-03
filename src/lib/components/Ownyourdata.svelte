@@ -2,7 +2,7 @@
     <div class="bg-white">
       <div class="container mx-auto flex flex-col items-center py-12 sm:py-24">
         <div class="w-11/12 sm:w-2/3 flex justify-center items-center flex-col" style="line-height:1.3">
-          <h2 class="text-6xl text-center text-gray-800 font-black pb-12">
+          <h2 class="text-5xl text-center text-gray-800 font-black pb-12">
             Own Your Data
           </h2>
           <p class="text-4xl text-center text-gray-800 " style="line-height:1.2">

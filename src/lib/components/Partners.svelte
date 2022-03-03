@@ -1,5 +1,9 @@
+<script>
+    import Subscribe from "$lib/components/email/Subscribe.svelte";
+</script>
+
 <section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-4 py-12">
-    <h2 class="pt-2 pb-16 text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-center text-black font-black leading-7 md:leading-10">
+    <h2 class="pt-2 pb-16 text-5xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-center text-black font-black leading-7 md:leading-10">
         Our Partners
       </h2>
     <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 xl:grid-cols-6 gap-6">
@@ -41,16 +45,9 @@
         </div>    
 
     </div>
-    <div class="flex justify-center items-center py-12">
-        <div class="w-full mt-8 bg-transparent border rounded-md lg:max-w-sm dark:border-gray-700">
-            <form class="flex flex-col lg:flex-row">
-                <input type="email" placeholder="Your email address" class="text-xl flex-1 h-10 px-4 py-2 m-1 text-gray-700 placeholder-gray-400 bg-transparent border-none appearance-none dark:text-gray-200 focus:outline-none focus:placeholder-transparent focus:ring-0" /> 
-                    <button type="button" class="h-10 px-4 py-2 m-1 text-xl text-white  bg-aquadark rounded-md hover:bg-aqua ">
-                        Join Us
-                </button>
-            </form>
-        </div>
+    <div class="flex justify-center flex-col items-center py-12">
         <img src="kickstarter.png" alt="Box by Functionland Launching soon on Kickstarter" class="ml-2" width="150">
+        <Subscribe />   
     </div>
         
   </section>

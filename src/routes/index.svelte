@@ -5,7 +5,6 @@
 	import Features from '$lib/components/Features.svelte';
 	import Preorder from '$lib/components/Preorder.svelte';
 	import Partners from '$lib/components/Partners.svelte';
-	// import Greentech from '$lib/components/Greentech.svelte';
 	import Earncrypto from '$lib/components/Earncrypto.svelte';
 	import Ownyourdata from '$lib/components/Ownyourdata.svelte';
 	import Footer from '../lib/components/Footer.svelte';

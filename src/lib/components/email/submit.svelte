@@ -9,7 +9,7 @@
 	let responseMessage = '';
 	let messageClass = '';
 	let subBtnText = '';
-	import BackIcon from '$lib/img/layout/back.svelte';
+	import BackIcon from '$lib/components/email/Back.svelte';
 
 	async function submitEmail() {
 		try {
