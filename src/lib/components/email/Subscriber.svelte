@@ -4,7 +4,7 @@
     let responseMessage = ''
   
     async function submitForm() {
-      const submit = await fetch('/subscribe', {
+      const submit = await fetch('/subscribe.json', {
         method: 'POST',
         body: JSON.stringify({ email }),
       })
