@@ -12,6 +12,7 @@
         </div>
 
         <div class="flex justify-center items-center py-12">
+            
             <div class="w-full mt-8 bg-transparent border rounded-md max-w-md dark:border-gray-700">
                 <form class="flex flex-col">
                     <input type="email" placeholder="Your email address " class="text-lg flex-1 h-12 pl-4 py-2 m-1 text-gray-700 placeholder-gray-400 bg-transparent border-none appearance-none dark:text-gray-200 focus:outline-none focus:placeholder-transparent focus:ring-0" /> 
@@ -20,6 +21,7 @@
                     </button>
                 </form>
             </div>
+            <img src="kickstarter.png" alt="Box by Functionland Launching soon on Kickstarter" class="ml-2" width="150">
         </div>
 
       </div>

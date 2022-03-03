@@ -50,6 +50,7 @@
                 </button>
             </form>
         </div>
+        <img src="kickstarter.png" alt="Box by Functionland Launching soon on Kickstarter" class="ml-2" width="150">
     </div>
         
   </section>
