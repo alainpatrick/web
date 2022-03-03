@@ -17,7 +17,7 @@ module.exports = {
 		colors: {
 			
 			nightgray: '#84838a',
-			hooker: '#434952',
+			hooker: '#383e46',
 			aqua: '#00e5ff',
 			aquadark: '#1ed0d0',
 			black: colors.black,

@@ -14,11 +14,9 @@
           </p>
         </div>
         <div class="flex justify-center items-center">
-            <!-- svelte-ignore a11y-media-has-caption -->
-            <video width="640" autoplay loop>
-                <source src="green.mp4" type="video/mp4" />
-                Your browser does not support the video tag.
-            </video>
+            <div class="flex justify-center items-center py-8">
+                <img src="green.gif" alt="Box is secure and green" class="rounded-lg" width="500" >
+            </div>
         </div>
       </div>
     </div>
