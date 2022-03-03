@@ -44,7 +44,7 @@
     <div class="flex justify-center items-center py-12">
         <div class="w-full mt-8 bg-transparent border rounded-md lg:max-w-sm dark:border-gray-700">
             <form class="flex flex-col lg:flex-row">
-                <input type="email" placeholder="Enter your email address" class="text-xl flex-1 h-10 px-4 py-2 m-1 text-gray-700 placeholder-gray-400 bg-transparent border-none appearance-none dark:text-gray-200 focus:outline-none focus:placeholder-transparent focus:ring-0" /> 
+                <input type="email" placeholder="Your email address" class="text-xl flex-1 h-10 px-4 py-2 m-1 text-gray-700 placeholder-gray-400 bg-transparent border-none appearance-none dark:text-gray-200 focus:outline-none focus:placeholder-transparent focus:ring-0" /> 
                     <button type="button" class="h-10 px-4 py-2 m-1 text-xl text-white  bg-aquadark rounded-md hover:bg-aqua ">
                         Join Us
                 </button>
