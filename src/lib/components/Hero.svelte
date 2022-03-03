@@ -18,9 +18,9 @@
         </div>
     </div>
     
-    <div class="w-full h-screen bg-center bg-no-repeat bg-cover" style="background-image: url('hero2.jpg');">
+    <div class="w-full h-screen bg-center bg-no-repeat bg-cover" style="background-image: url('hero.jpg');">
         <div class="w-full h-screen bg-opacity-10 bg-black flex justify-center items-center">
-            <div class="text-center text-white bg-black bg-opacity-50 rounded-lg p-4 mx-4" style="margin-top:36rem;">
+            <div class="text-center text-white bg-black bg-opacity-50 rounded-lg p-4 mx-4" style="margin-top:40rem;">
                 <h1 class="text-4xl font-extrabold text-white " style="line-height: 1.3;">
                     <span class="text-aquadark">Box</span> <br/> 
                     The private, payless <br/> 
