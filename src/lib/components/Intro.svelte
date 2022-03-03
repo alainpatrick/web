@@ -15,10 +15,11 @@
           </p>
         </div>
 
-        <div class="flex justify-center flex-col items-center py-12">
+        <div class="flex justify-center flex-col items-center">
           <img src="kickstarter.png" alt="Box by Functionland Launching soon on Kickstarter" class="ml-2" width="150">
           <Subscriber />
         </div>
+
       </div>
     </div>
 </section>

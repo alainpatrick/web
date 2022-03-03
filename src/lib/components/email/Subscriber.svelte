@@ -28,7 +28,7 @@
     }
   </script>
   
-  <div class="w-full mt-8 bg-transparent border rounded-md lg:max-w-sm dark:border-gray-700">
+  <div class="mt-8 bg-transparent border rounded-md lg:max-w-sm dark:border-gray-700">
     {#if showMessage}
       <div class="text-center">
         <h3 class="font-extrabold text-3xl">{responseMessage}</h3>
@@ -40,7 +40,7 @@
             <span class="sr-only">Your Email</span>
           </label>
           <input
-            class="text-3xl lg:text-xl xl:text-xl flex-1 h-10 px-4 py-2 m-1 text-gray-700 placeholder-gray-400 bg-transparent border-none appearance-none dark:text-gray-200 focus:outline-none focus:placeholder-transparent focus:ring-0"
+            class="text-2xl lg:text-xl xl:text-xl flex-1 h-10 px-4 py-2 m-1 text-gray-700 placeholder-gray-400 bg-transparent border-none appearance-none dark:text-gray-200 focus:outline-none focus:placeholder-transparent focus:ring-0"
             id="email"
             aria-label="email"
             type="email"
@@ -50,7 +50,7 @@
             required
             bind:value={email}
           />
-          <button class="px-4 py-4 m-2 text-3xl lg:m-1 lg:py-2 lg:text-xl xl:py-2 xl:text-xl text-white  bg-aquadark rounded-md hover:bg-aqua" type="submit" >
+          <button class="px-4 py-4 m-2 text-2xl lg:m-1 lg:py-2 lg:text-xl xl:py-2 xl:text-xl text-white  bg-aquadark rounded-md hover:bg-aqua" type="submit" >
               Join us
           </button>
         </form>
