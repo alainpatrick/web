@@ -14,9 +14,8 @@
             By the People, For the People.
           </p>
         </div>
-
         <div class="flex justify-center flex-col items-center">
-          <img src="kickstarter.png" alt="Box by Functionland Launching soon on Kickstarter" class="ml-2" width="150">
+          <img src="kickstarter.png" alt="Box by Functionland Launching soon on Kickstarter" class="ml-2 mt-4" width="150">
           <Subscriber />
         </div>
 
