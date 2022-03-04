@@ -13,12 +13,12 @@
                 <!-- <li class="text-xl"><a href="https://fx.land/nft/">NFT</a></li> -->
             </ul>
             <nav class="md:ml-auto hidden lg:flex flex-wrap space-x-6 items-center text-base justify-center font-semibold">
-                <a href="#joinus" class="bg-aquadark text-white py-2 px-4 rounded  hover:bg-aqua text-xl">Join The Waiting List</a>
+                <a href="#joinus" class="bg-aquadark text-white py-2 px-4 rounded  hover:bg-aqua text-lg">Join The Waiting List</a>
             </nav>
         </div>
     </div>
     
-    <div class="w-full h-screen bg-center bg-no-repeat bg-cover" style="background-image: url('hero.jpg');">
+    <div class="w-full h-screen bg-center bg-no-repeat bg-cover" style="background-image: url('hero2.png');">
         <div class="w-full h-screen bg-opacity-10 bg-black flex justify-center items-center">
             <div class="text-center text-white bg-black bg-opacity-80 rounded-lg mx-4" style="margin-top:30rem;">
                 <h1 class="text-3xl font-extrabold text-white p-2 " style="line-height: 1.3;">
