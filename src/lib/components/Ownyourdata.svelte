@@ -6,10 +6,11 @@
             Own Your Data
           </h2>
           <p class="text-4xl text-center text-gray-800 " style="line-height:1.2">
-            Our proprietary AES-256 encryption software hacker-proofs your data. 
-            Even if the world’s most talented hacker were able to bring the power of all world’s computers to bear on your Box,  
-            it would still take (literally!) billions of years to break into your files. 
-            Only you can access your data. Only you can share it.
+            
+            AES-256 encryption. <br/>
+            Hacker-proof.<br/>
+            Only you can access your data. <br/>
+            Only you can share it. <br/>
           </p>
         </div>
         <div class="flex justify-center items-center py-8">
