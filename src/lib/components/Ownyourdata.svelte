@@ -5,13 +5,31 @@
           <h2 class="text-5xl text-center text-gray-800 font-black pb-12">
             Own Your Data
           </h2>
-          <p class="text-4xl text-center text-gray-800 " style="line-height:1.2">
-            
-            AES-256 encryption. <br/>
-            Hacker-proof.<br/>
-            Only you can access your data. <br/>
-            Only you can share it. <br/>
-          </p>
+          
+          <div class="mx-10 pt-15">
+            <div class="grid gap-6 mb-8 md:grid-cols-2">
+              <div class="min-w-0 p-4 text-black bg-gray-200 rounded-lg shadow-xs">
+                <h4 class="mb-4 font-semibold">
+                  Secure
+                </h4>
+                <p>
+                  ✔️ AES-256 encryption <br/>
+                  ✔️ Hacker-proof
+                </p>
+              </div>
+
+              <div class="min-w-0 p-4 text-black bg-gray-200 rounded-lg shadow-xs">
+                <h4 class="mb-4 font-semibold">
+                  Accessible
+                </h4>
+                <p>
+                  ✔️ Only you can access your data <br/>
+                  ✔️ Only you can share it
+                </p>
+              </div>         
+            </div>
+         </div>
+
         </div>
         <div class="flex justify-center items-center py-8">
             <img src="box-8.jpg" alt="Box is encrypted" class="rounded-lg" width="500" >

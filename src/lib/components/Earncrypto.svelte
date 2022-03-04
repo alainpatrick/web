@@ -5,19 +5,34 @@
           <h2 class="pt-2 mb-8 text-5xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-center text-white font-black leading-7 md:leading-10">
             Earn Crypto
           </h2>
-          <p class="text-3xl text-center text-white pt-8" style="line-height:1.2">
-            Blockchain-Attached Storage solution.<br/> 
-            Box lets you share storage.<br/>
-            Box lets you share CPU power.<br/> 
-            Box quietly mines FULA tokens in the background.
-          </p>
-          <p class="text-3xl text-center text-white pt-8" style="line-height:1.2">
-            Box is energy-efficient.<br/>
-            Box is build on open-source architecture. 
-          </p>
+
+          <div class="mx-10 pt-15">
+            <div class="grid gap-6 mb-8 md:grid-cols-2">
+              <div class="min-w-0 p-4 text-black bg-gray-200 rounded-lg shadow-xs">
+                <h4 class="mb-4 font-semibold">
+                  Passive Earnings
+                </h4>
+                <p>
+                  ✔️ Box quietly mines FULA tokens <br/>
+                  ✔️ Rent unused disk space
+                </p>
+              </div>
+
+              <div class="min-w-0 p-4 text-black bg-gray-200 rounded-lg shadow-xs">
+                <h4 class="mb-4 font-semibold">
+                  Active Earnings
+                </h4>
+                <p>
+                  ✔️ Create apps for the network <br/>
+                  ✔️ Earn rewards for tasks
+                </p>
+              </div>         
+            </div>
+         </div>
+
         </div>
         <div class="flex justify-center items-center">
-            <div class="flex justify-center items-center py-8">
+            <div class="flex justify-center items-center py-2">
                 <img src="green.gif" alt="Box is secure and green" class="rounded-lg" width="500" >
             </div>
         </div>

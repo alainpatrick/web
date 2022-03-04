@@ -34,7 +34,7 @@
         <div class="w-full lg:w-1/2">
             <div>
                 <h1 class="text-left mx-4 text-3xl font-bold tracking-wide text-gray-800 dark:text-white lg:text-5xl">
-                    Solving subscription
+                    Solve subscription
                 </h1>
                 <div class="mt-8 space-y-5">
                     <p class="flex items-end mx-4 text-gray-800 text-2xl text-left "  style="line-height:1.2">
@@ -56,7 +56,7 @@
         <div class="w-full lg:w-1/2">
             <div class="lg:max-w-lg">
                 <h1 class="text-left text-3xl mx-4 font-bold tracking-wide text-gray-800 dark:text-white lg:text-5xl">
-                    Customizable
+                    Modular
                 </h1>
                 <div class="mt-8 space-y-5">
                     <p class="flex items-center text-left mx-4 text-gray-800 text-2xl md:pr-4"  style="line-height:1.2">
