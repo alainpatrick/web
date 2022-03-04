@@ -8,6 +8,7 @@
 	import Earncrypto from '$lib/components/Earncrypto.svelte';
 	import Ownyourdata from '$lib/components/Ownyourdata.svelte';
 	import Footer from '../lib/components/Footer.svelte';
+	import Team from '$lib/components/Team.svelte';
 </script>
 
 <svelte:head>
@@ -23,4 +24,5 @@
 <Whybox />
 <Preorder />
 <Partners />
+<Team />
 <Footer />
