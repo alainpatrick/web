@@ -4,3 +4,21 @@
 
 [functions]
   directory = "functions"
+
+[[redirects]]
+  from = "/nft"
+  to = "http://old.fx.land/nft"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/wp-content/ "
+  to = "http://old.fx.land/wp-content/"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/crowdfunding "
+  to = "/"
+  status = 301
+  force = false

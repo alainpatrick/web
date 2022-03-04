@@ -6,11 +6,14 @@
             Earn Crypto
           </h2>
           <p class="text-3xl text-center text-white pt-8" style="line-height:1.2">
-            Thanks to BAS, our Blockchain-Attached Storage solution, 
-            Box lets you share storage and CPU power with others while quietly mining FULA tokens in the background. 
+            Blockchain-Attached Storage solution.<br/> 
+            Box lets you share storage.<br/>
+            Box lets you share CPU power.<br/> 
+            Box quietly mines FULA tokens in the background.
           </p>
           <p class="text-3xl text-center text-white pt-8" style="line-height:1.2">
-            Furthermore, Box is built on energy-efficient, open-source architecture. 
+            Box is energy-efficient.<br/>
+            Box is build on open-source architecture. 
           </p>
         </div>
         <div class="flex justify-center items-center">
