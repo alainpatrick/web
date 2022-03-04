@@ -9,8 +9,10 @@
           <h2 class="text-5xl md:text-6xl lg:text-6xl xl:text-6xl text-center text-gray-800 font-black" style="line-height:1.2">
             Box by <span class="text-aquadark">Functionland</span><br/>
           </h2>
-          <p class="text-4xl text-center text-gray-800 pt-8" style="line-height:1.2">
+          <p class="text-4xl font-medium text-center text-gray-800 pt-8" style="line-height:1.2">
             The first Blockchain-Attached Storage solution <br/>
+          </p>
+          <p class="text-4xl font-medium text-center text-gray-800 pt-8" style="line-height:1.2">
             By the People, For the People.
           </p>
         </div>
