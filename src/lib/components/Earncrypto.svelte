@@ -13,7 +13,7 @@
                   Passive Earnings
                 </h4>
                 <p>
-                  ✔️ Box quietly mines FULA tokens <br/>
+                  ✔️ Box mines FULA tokens <br/>
                   ✔️ Rent unused disk space
                 </p>
               </div>

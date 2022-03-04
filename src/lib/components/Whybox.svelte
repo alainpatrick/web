@@ -9,8 +9,9 @@
                     Plug-n-Play
                 </h1>
                 <div class="mt-8 space-y-5">
-                    <p class="flex items-center mx-4 text-left text-gray-800 text-2xl md:pr-4"  style="line-height:1.2">
-                        Setting up your Box takes just as easy as a few clicks on your phone, like how you setup your smart TV!
+                    <p class="flex items-center mx-4 text-left text-gray-800 text-xl md:pr-4"  style="line-height:1.3">
+                        Setting up Box like you set up your phone, 
+                        or your smart TV!
                     </p>
                 </div>
             </div>
@@ -33,15 +34,15 @@
 
         <div class="w-full lg:w-1/2">
             <div>
-                <h1 class="text-left mx-4 text-3xl font-bold tracking-wide text-gray-800 dark:text-white lg:text-5xl">
-                    Solve subscription
+                <h1 class="text-left ml-6 mr-4 text-3xl font-bold tracking-wide text-gray-800 dark:text-white lg:text-5xl">
+                    Subscription solved
                 </h1>
                 <div class="mt-8 space-y-5">
-                    <p class="flex items-end mx-4 text-gray-800 text-2xl text-left "  style="line-height:1.2">
-                        With Box, ordinary people own the hardware running the network. 
-                        This solves the paying problem. 
-                        Developers no longer have to pay rent. 
-                        And, for the first time, developers are paid to create free cloud applications and services for you to enjoy.
+                    <p class="flex items-end ml-6 mr-4 text-gray-800 text-xl text-left "  style="line-height:1.2">
+                        Ordinary people own the hardware running the network.<br/> 
+                        This solves the paying problem. <br/><br/>
+                        Developers no longer have to pay rent, <br/>
+                        Developers are paid to create applications for you to enjoy.
                     </p>
                 </div>
             </div>
@@ -59,9 +60,9 @@
                     Modular
                 </h1>
                 <div class="mt-8 space-y-5">
-                    <p class="flex items-center text-left mx-4 text-gray-800 text-2xl md:pr-4"  style="line-height:1.2">
-                        Our hardware is also an open-source platform. 
-                        With a modular plug-and-play design and standardized dimensions, 
+                    <p class="flex items-center text-left mx-4 text-gray-800 text-xl md:pr-4"  style="line-height:1.2">
+                        Our hardware is also an open-source platform. <br/><br/>
+                        Modular plug-and-play design and standardized dimensions. <br/><br/>
                         Box lets hardware builders create additional plug-in towers to extend its functionality.
                     </p>
                 </div>
