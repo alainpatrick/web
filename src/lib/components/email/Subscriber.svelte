@@ -1,37 +1,43 @@
 <script>
-    let email = ''
-    let showMessage = false
-    let responseMessage = ''
-  
-    async function submitForm() {
-      const submit = await fetch('/subscribe.json', {
-        method: 'POST',
-        body: JSON.stringify({ email }),
-      })
-      const data = await submit.json()
-  
-      if (data.message === 'bad request') {
-        showMessage = true
-        responseMessage = `That looks like a bad request`
-      }
-      if (data.message === 'email sent!') {
-        showMessage = true
-        responseMessage = `Sweet! You're signed up!`
-      }
-      if (
-        data.message === 'something went wrong with the email submit!'
-      ) {
-        showMessage = false
-        // deal with failed response from server
-        console.error(error)
-      }
+  let email = ''
+  let showMessage = false
+  let responseMessage = ''
+
+  async function submitForm() {
+    const submit = await fetch('/subscribe.json', {
+      method: 'POST',
+      headers: {
+      'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ email }),
+    })
+    const data = await submit.json()
+
+    if (data.message === 'bad request') {
+      showMessage = true
+      responseMessage = `That looks like something wrong happened`
     }
-  </script>
+    if (data.message === 'email sent!') {
+      showMessage = true
+      responseMessage = `Sweet! Check your emails!`
+    }
+    if (
+      data.message === 'something went wrong with the email submit!'
+    ) {
+      showMessage = false
+      // deal with failed response from server
+    }
+  }
+</script>
   
   <div class="mt-8 bg-transparent border rounded-md lg:max-w-sm dark:border-gray-700">
     {#if showMessage}
       <div class="text-center">
-        <h3 class="font-extrabold text-3xl">{responseMessage}</h3>
+        {#if responseMessage == `Sweet! Check your emails!`}
+          <h3 class="font-bold text-2xl text-green-600 ">Sweet! <br/>Check your emails to confirm!</h3>
+        {:else}
+          <h3 class="font-bold text-2xl text-red-600 ">{responseMessage}</h3>
+        {/if}
       </div>
     {:else}
       <div class="text-center">
