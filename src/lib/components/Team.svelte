@@ -1,3 +1,7 @@
+<script>
+    import Subscriber from "$lib/components/email/Subscriber.svelte";
+</script>
+
 <section class="bg-gray-200">
     <section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-4 py-12">
         <div class="text-center pb-12">
@@ -191,4 +195,8 @@
 
         </div>
     </section>
+    <div class="flex justify-center flex-col items-center py-4">
+        <img src="kickstarter.png" alt="Box by Functionland Launching soon on Kickstarter" class="ml-2" width="150">
+        <Subscriber />   
+    </div>
 </section>

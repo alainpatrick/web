@@ -34,7 +34,7 @@
     {#if showMessage}
       <div class="text-center">
         {#if responseMessage == `Sweet! Check your emails!`}
-          <h3 class="font-bold text-2xl text-green-600 ">Sweet! <br/>Check your emails to confirm!</h3>
+          <h3 class="font-bold text-2xl text-green-600 ">Sweet! <br/>Check your emails and confirm!</h3>
         {:else}
           <h3 class="font-bold text-2xl text-red-600 ">{responseMessage}</h3>
         {/if}
