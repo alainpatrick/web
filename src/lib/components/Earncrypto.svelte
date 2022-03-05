@@ -6,7 +6,7 @@
             Earn Crypto
           </h2>
 
-          <div class="mx-10 pt-15">
+          <div class="mx-4 pt-15">
             <div class="grid gap-6 mb-8 md:grid-cols-2">
               <div class="min-w-0 p-4 text-black bg-gray-200 rounded-lg shadow-xs">
                 <h4 class="mb-4 font-semibold">

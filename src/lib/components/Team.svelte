@@ -146,6 +146,16 @@
                 </div>
             </div>
 
+            <div class="w-full bg-gray-900 rounded-lg sahdow-lg p-8 flex flex-col justify-center items-center">
+                <div class="mb-8">
+                    <img class="object-center object-cover rounded-full h-36 w-36" src="/team/Jamshid.jpg" alt="Jamshid Saidov">
+                </div>
+                <div class="text-center">
+                    <p class="text-xl text-white font-bold mb-2">Jamshid Saidov</p>
+                    <p class="text-base text-gray-400 font-normal">Software</p>
+                </div>
+            </div>
+
         </div>
         <div class="text-center my-16">
             <h2 class="text-5xl text-center text-gray-800 font-black pb-12">
@@ -153,6 +163,17 @@
               </h2>
         </div>
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+
+            <div class="w-full bg-gray-900 rounded-lg sahdow-lg p-8 flex flex-col justify-center items-center">
+                <div class="mb-8">
+                    <img class="object-center object-cover rounded-full h-36 w-36" src="/team/Shaun.jpeg" alt="Shaun Neff">
+                </div>
+                <div class="text-center">
+                    <p class="text-xl text-white font-bold mb-2">Shaun Neff</p>
+                    <p class="text-base text-gray-400 font-normal">CEO – Neff Headwear</p>
+                </div>
+            </div>
+
             <div class="w-full bg-gray-900 rounded-lg sahdow-lg p-8 flex flex-col justify-center items-center">
                 <div class="mb-8">
                     <img class="object-center object-cover rounded-full h-36 w-36" src="/team/Chris.png" alt="Chris Gale">
@@ -185,11 +206,11 @@
 
             <div class="w-full bg-gray-900 rounded-lg sahdow-lg p-8 flex flex-col justify-center items-center">
                 <div class="mb-8">
-                    <img class="object-center object-cover rounded-full h-36 w-36" src="/team/Shaun.jpeg" alt="Shaun Neff">
+                    <img class="object-center object-cover rounded-full h-36 w-36" src="/team/Stefaan.jpg" alt="Stefaan Vervaet">
                 </div>
                 <div class="text-center">
-                    <p class="text-xl text-white font-bold mb-2">Shaun Neff</p>
-                    <p class="text-base text-gray-400 font-normal">CEO – Neff Headwear</p>
+                    <p class="text-xl text-white font-bold mb-2">Stefaan Vervaet</p>
+                    <p class="text-base text-gray-400 font-normal">Protocol Labs Ecosystem Lead</p>
                 </div>
             </div>
 
