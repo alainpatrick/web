@@ -10,7 +10,7 @@
                 </h1>
                 <div class="mt-8 space-y-5">
                     <p class="flex items-center mx-4 text-left text-gray-800 text-xl md:pr-4"  style="line-height:1.3">
-                        Setting up Box like you set up your phone, 
+                        Set up Box like you set up your phone, 
                         or your smart TV!
                     </p>
                 </div>
