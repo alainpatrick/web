@@ -35,7 +35,7 @@
        </div> -->
        <div class="p-5 w-48 ">
           <div class="text-xs uppercase text-gray-500 font-medium">Contact us</div>
-          <a class="my-3 block text-xs" href="/#">101 Erskine ave, unit 1110, Toronto, Ontario, Canada</a>
+          <span class="my-3 block text-xs" >101 Erskine ave, unit 1110, Toronto, Ontario, Canada</span>
           <a class="my-3 block text-aquadark font-medium" href="mailto:hi@fx.land">hi@fx.land<span class="text-teal-600 text-xs p-1"></span></a> 
        </div>
     </div>
