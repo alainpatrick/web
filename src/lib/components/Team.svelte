@@ -117,6 +117,26 @@
                 </div>
             </div>
 
+            <div class="w-full bg-gray-900 rounded-lg sahdow-lg p-8 flex flex-col justify-center items-center">
+                <div class="mb-8">
+                    <img class="object-center object-cover rounded-full h-36 w-36" src="/team/Aaron.jpg" alt="Aaron Maines">
+                </div>
+                <div class="text-center">
+                    <p class="text-xl text-white font-bold mb-2">Aaron Maines</p>
+                    <p class="text-base text-gray-400 font-normal">Copywriting</p>
+                </div>
+            </div>
+
+            <div class="w-full bg-gray-900 rounded-lg sahdow-lg p-8 flex flex-col justify-center items-center">
+                <div class="mb-8">
+                    <img class="object-center object-cover rounded-full h-36 w-36" src="/team/Aaron2.jpg" alt="Aaron Surty">
+                </div>
+                <div class="text-center">
+                    <p class="text-xl text-white font-bold mb-2">Aaron Surty</p>
+                    <p class="text-base text-gray-400 font-normal">Software</p>
+                </div>
+            </div>
+
         </div>
     </section>
 </section>
