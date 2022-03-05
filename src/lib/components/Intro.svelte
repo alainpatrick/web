@@ -10,7 +10,7 @@
             Box by <span class="text-aquadark">Functionland</span><br/>
           </h2>
           <p class="text-4xl font-medium text-center text-gray-800 pt-8" style="line-height:1.2">
-            The first Blockchain-Attached Storage solution <br/>
+            World's First Blockchain-Attached Storage Solution <br/>
           </p>
           <p class="text-4xl font-medium text-center text-gray-800 pt-8" style="line-height:1.2">
             By the People, For the People.
