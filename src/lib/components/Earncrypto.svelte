@@ -24,7 +24,7 @@
                 </h4>
                 <p>
                   ✔️ Create apps for the network <br/>
-                  ✔️ Earn by accomplishing tasks
+                  ✔️ Get compensated for accomplishments
                 </p>
               </div>         
             </div>

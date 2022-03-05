@@ -8,11 +8,7 @@
             <a sveltekit:prefetch href="/" class="flex title-font font-medium items-center text-white mb-4 md:mb-0">
                 <Logo />
             </a>
-            <ul class="hidden lg:flex flex-row space-x-3 w-1/2 ml-12 text-sm">
-                <li class="text-xl"><a href="https://blog.fx.land/">Blog</a></li>
-                <!-- <li class="text-xl"><a href="https://fx.land/nft/">NFT</a></li> -->
-            </ul>
-            <nav class="md:ml-auto hidden lg:flex flex-wrap space-x-6 items-center text-base justify-center font-semibold">
+            <nav class="md:ml-auto hidden md:flex lg:flex flex-wrap space-x-6 items-center text-base justify-center font-semibold">
                 <a href="#joinus" class="bg-aquadark text-white py-2 px-4 rounded  hover:bg-aqua text-lg">Join The Waiting List</a>
             </nav>
         </div>
