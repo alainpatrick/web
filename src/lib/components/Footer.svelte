@@ -44,7 +44,7 @@
  <div class="bg-gray-100 pt-2 ">
     <div class="flex pb-5 px-3 m-auto pt-5 border-t text-gray-800 text-sm flex-col
        md:flex-row max-w-6xl">
-       <div class="mt-2">© Copyright 2022 Functionland inc. All Rights Reserved.</div>
+       <div class="mt-2 text-xs text-gray-500">© Copyright 2022 Functionland inc. All Rights Reserved.</div>
        <div class="md:flex-auto md:flex-row-reverse mt-2 flex-row flex">
           <a href="https://t.me/functionlanders" class="w-6 mx-1">
             <img src="telegram.svg" alt="Functionland telegram account" width="24" height="24">
