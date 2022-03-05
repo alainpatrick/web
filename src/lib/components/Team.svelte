@@ -3,7 +3,12 @@
         <div class="text-center pb-12">
             <h2 class="text-5xl text-center text-gray-800 font-black pb-12">
                 Team
-              </h2>
+            </h2>
+            <h3 class="text-2xl text-center text-gray-700 font-black pb-12" style="line-height: 1.3;">
+                We believe in a fairer future.<br/>
+                We believe in redistribution of power.<br/>
+                We believe in privacy. 
+            </h3>
         </div>
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
 
@@ -134,6 +139,53 @@
                 <div class="text-center">
                     <p class="text-xl text-white font-bold mb-2">Aaron Surty</p>
                     <p class="text-base text-gray-400 font-normal">Software</p>
+                </div>
+            </div>
+
+        </div>
+        <div class="text-center my-16">
+            <h2 class="text-5xl text-center text-gray-800 font-black pb-12">
+                Advisors
+              </h2>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+            <div class="w-full bg-gray-900 rounded-lg sahdow-lg p-8 flex flex-col justify-center items-center">
+                <div class="mb-8">
+                    <img class="object-center object-cover rounded-full h-36 w-36" src="/team/Chris.png" alt="Chris Gale">
+                </div>
+                <div class="text-center">
+                    <p class="text-xl text-white font-bold mb-2">Chris Gale</p>
+                    <p class="text-base text-gray-400 font-normal">Founder – ViewWorks</p>
+                </div>
+            </div>
+
+            <div class="w-full bg-gray-900 rounded-lg sahdow-lg p-8 flex flex-col justify-center items-center">
+                <div class="mb-8">
+                    <img class="object-center object-cover rounded-full h-36 w-36" src="/team/Zac.png" alt="Zac Cohen">
+                </div>
+                <div class="text-center">
+                    <p class="text-xl text-white font-bold mb-2">Zac Cohen</p>
+                    <p class="text-base text-gray-400 font-normal">Founder – FileBase</p>
+                </div>
+            </div>
+
+            <div class="w-full bg-gray-900 rounded-lg sahdow-lg p-8 flex flex-col justify-center items-center">
+                <div class="mb-8">
+                    <img class="object-center object-cover rounded-full h-36 w-36" src="/team/Andy2.png" alt="Andy Lark">
+                </div>
+                <div class="text-center">
+                    <p class="text-xl text-white font-bold mb-2">Andy Lark</p>
+                    <p class="text-base text-gray-400 font-normal">CEO – Group Lark</p>
+                </div>
+            </div>
+
+            <div class="w-full bg-gray-900 rounded-lg sahdow-lg p-8 flex flex-col justify-center items-center">
+                <div class="mb-8">
+                    <img class="object-center object-cover rounded-full h-36 w-36" src="/team/Shaun.jpeg" alt="Shaun Neff">
+                </div>
+                <div class="text-center">
+                    <p class="text-xl text-white font-bold mb-2">Shaun Neff</p>
+                    <p class="text-base text-gray-400 font-normal">CEO – Neff Headwear</p>
                 </div>
             </div>
 

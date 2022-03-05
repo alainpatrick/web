@@ -3,8 +3,8 @@
 </script>
 
 <section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-4 py-12">
-    <h2 class="pt-2 pb-16 text-5xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-center text-black font-black leading-7 md:leading-10">
-        Our Partners
+    <h2 class="pt-2 pb-16 text-3xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-center text-black font-black" style="line-height: 1.2;">
+        Trusted by our Partners
       </h2>
     <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 xl:grid-cols-6 gap-6">
         <div class="h-20 px-5 py-5 bg-gray-200 flex justify-center items-center rounded-lg">
