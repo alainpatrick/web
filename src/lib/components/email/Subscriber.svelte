@@ -30,7 +30,7 @@
   }
 </script>
   
-  <div class="mt-8 bg-transparent border rounded-md lg:max-w-sm dark:border-gray-700">
+  <div class="mt-8 bg-transparent border rounded-md lg:max-w-sm dark:border-gray-700 bg-white">
     {#if showMessage}
       <div class="text-center">
         {#if responseMessage == `Sweet! Check your emails!`}
