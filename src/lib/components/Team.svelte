@@ -4,7 +4,7 @@
             <h2 class="text-5xl text-center text-gray-800 font-black pb-12">
                 Team
             </h2>
-            <h3 class="text-2xl text-center text-gray-700 font-black pb-12" style="line-height: 1.3;">
+            <h3 class="text-2xl text-center text-gray-700 font-bold pb-12" style="line-height: 1.3;">
                 We believe in a fairer future.<br/>
                 We believe in redistribution of power.<br/>
                 We believe in privacy. 
