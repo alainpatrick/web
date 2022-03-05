@@ -10,7 +10,7 @@
                 </h1>
                 <div class="mt-8 space-y-5">
                     <p class="flex items-center mx-4 text-left text-gray-800 text-xl md:pr-4"  style="line-height:1.3">
-                        Set up Box like you set up your phone, 
+                        Set up Box like you set up your phone 
                         or your smart TV!
                     </p>
                 </div>
@@ -35,7 +35,7 @@
         <div class="w-full lg:w-1/2">
             <div>
                 <h1 class="text-left ml-6 mr-4 text-3xl font-bold tracking-wide text-gray-800 dark:text-white lg:text-5xl">
-                    Subscription solved
+                    No Subscription
                 </h1>
                 <div class="mt-8 space-y-5">
                     <p class="flex items-end ml-6 mr-4 text-gray-800 text-xl text-left "  style="line-height:1.2">
