@@ -9,11 +9,13 @@
 	import Ownyourdata from '$lib/components/Ownyourdata.svelte';
 	import Footer from '../lib/components/Footer.svelte';
 	import Team from '$lib/components/Team.svelte';
+	import { GoogleAnalytics } from '@beyonk/svelte-google-analytics'
 </script>
 
 <svelte:head>
 	<title>Functionland</title>
 	<html lang="en" />
+	<GoogleAnalytics properties={[ '305969288' ]} />
 </svelte:head>
 
 <Hero />
