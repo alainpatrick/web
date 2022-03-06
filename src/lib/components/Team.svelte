@@ -4,6 +4,7 @@
 
 <section class="bg-gray-200">
     <section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-4 py-12">
+        <!-- Start Team -->
         <div class="text-center pb-12">
             <h2 class="text-5xl text-center text-gray-800 font-black pb-12">
                 Team
@@ -157,6 +158,8 @@
             </div>
 
         </div>
+        <!-- End Team -->
+        <!-- Start Advisors -->
         <div class="text-center my-16">
             <h2 class="text-5xl text-center text-gray-800 font-black pb-12">
                 Advisors
@@ -214,7 +217,50 @@
                 </div>
             </div>
 
-        </div>
+            </div>
+            <!-- End Advisors -->
+            <!-- Start News -->
+            <div class="text-center my-16">
+                <h2 class="text-5xl text-center text-gray-800 font-black pb-12">
+                    We're in the News
+                </h2>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
+
+                
+                    <div class="overflow-hidden shadow-md text-gray-800 bg-gray-100 rounded-lg">
+                        <!-- card header -->
+                        <div class="text-3xl text-center px-6 py-4 bg-gray-100 border-b border-gray-200 font-bold ">
+                            Functionland Raises $1.1M in Seed Funding
+                        </div>
+                
+                        <!-- card body -->
+                        <div class="flex justify-center items-center p-6 bg-gray-100 ">
+                            <!-- content goes here -->
+                            <a href="https://www.finsmes.com/2022/01/functionland-raises-1-1m-in-seed-funding.html" target="_blank">
+                                <img src="/news/finsmes.png" alt="Finsmes news cover Functionland" class="" width="250">
+                            </a>
+                        </div>
+                    </div>
+                
+                        
+                    <div class="overflow-hidden shadow-md text-gray-800 bg-gray-100 rounded-lg">
+                        <!-- card header -->
+                        <div class="text-3xl text-center px-6 py-4 bg-gray-100 border-b border-gray-200 font-bold ">
+                            Functionland Unveils Groundbreaking Hardware
+                        </div>
+                
+                        <!-- card body -->
+                        <div class="flex justify-center items-center p-16 bg-gray-100 ">
+                            <!-- content goes here -->
+                            <a href="https://venturebeat.com/2022/03/01/functionland-unveils-groundbreaking-hardware-box-the-web3-solution-to-cloud-subscriptions/" target="_blank">
+                                <img src="/news/VentureBeat.png" alt="VentureBeat news cover Functionland" class="" width="250">
+                            </a>
+                        </div>
+                    </div>
+                
+            </div>
+        <!-- End News -->
     </section>
     <div class="flex justify-center flex-col items-center py-4">
         <img src="kickstarter.png" alt="Box by Functionland Launching soon on Kickstarter" class="ml-2" width="150">
