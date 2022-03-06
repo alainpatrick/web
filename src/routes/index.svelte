@@ -14,7 +14,6 @@
 
 <svelte:head>
 	<title>Functionland</title>
-	<html lang="en" />
 	<GoogleAnalytics properties={[ '305969288' ]} />
 </svelte:head>
 
