@@ -112,7 +112,7 @@
                     <img class="object-center object-cover rounded-full h-36 w-36" src="/team/moein.jpg" alt="Moiein Bakhshi">
                 </div>
                 <div class="text-center">
-                    <p class="text-xl text-white font-bold mb-2">Moiein Bakhshi</p>
+                    <p class="text-xl text-white font-bold mb-2">Moein Bakhshi</p>
                     <p class="text-base text-gray-400 font-normal">Research</p>
                 </div>
             </div>
