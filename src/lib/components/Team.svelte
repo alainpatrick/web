@@ -133,7 +133,7 @@
                 </div>
                 <div class="text-center">
                     <p class="text-xl text-white font-bold mb-2">Aaron Maines</p>
-                    <p class="text-base text-gray-400 font-normal">Copywriting</p>
+                    <p class="text-base text-gray-400 font-normal">Writer</p>
                 </div>
             </div>
 
