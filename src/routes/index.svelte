@@ -16,7 +16,7 @@
 <svelte:head>
 	<Seometatags />
 	<title>Functionland</title>
-	<GoogleAnalytics properties={[ '305969288' ]} />
+	<GoogleAnalytics properties={[ 'G-6Z886G4S0T' ]} />
 </svelte:head>
 
 <Hero />
