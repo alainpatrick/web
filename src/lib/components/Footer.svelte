@@ -3,7 +3,7 @@
        <div class="p-5 w-48 ">
           <div class="text-xs uppercase text-gray-500 font-medium">Resources</div>
           <a class="my-2 block text-xs" href="https://blog.fx.land/">Blog</a>
-          <a class="my-2 block text-xs" href="https://old.fx.land/nft/">NFT</a>
+          <a class="my-2 block text-xs" href="https://c.fx.land/nft/">NFT</a>
           <a class="my-2 block text-xs" href="https://github.com/functionland/">Developers</a>
        </div>
       <!-- <div class="p-5 w-48 ">
